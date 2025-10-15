@@ -140,7 +140,7 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
 
 <h3 align="center">
   <a href="https://www.linkedin.com/in/harshit-raj-03a409337/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/_harshit010_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <!-- <a href="https://www.instagram.com/_harshit010_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> -->
 </h3>
 
 ---
